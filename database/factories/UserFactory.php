@@ -30,7 +30,7 @@ class UserFactory extends Factory
     }
 
     /**
-     * Indicate that the user should have shelves with books.
+     * 
      *
      * @return \Illuminate\Database\Eloquent\Factories\Factory
      */

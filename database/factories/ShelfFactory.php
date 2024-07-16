@@ -28,7 +28,7 @@ class ShelfFactory extends Factory
     }
 
     /**
-     * Indicate that the shelf should have books.
+     * 
      *
      * @return \Illuminate\Database\Eloquent\Factories\Factory
      */

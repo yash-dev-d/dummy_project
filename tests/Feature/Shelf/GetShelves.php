@@ -3,7 +3,6 @@
 namespace Tests\Feature\Shelf;
 
 use App\Models\Shelf;
-use App\Models\User;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Tests\TestCase;
 
