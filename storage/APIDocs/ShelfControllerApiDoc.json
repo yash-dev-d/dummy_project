@@ -1,0 +1,44 @@
+[
+    {
+        "endpoint": "/api/create_shelf",
+        "method": "POST",
+        "description": "Creates Shelf",
+        "response": {
+            "message": "Shelf successfully created",
+            "user": {
+                "id": 1,
+                "user_id": 1,
+                "name": "New Shelf",
+                "created_at": "2024-07-16T08:43:30.000000Z"
+            }
+        },
+        "API_FILE": "ShelfControllerApiDoc",
+        "Last Updated": "16 Jul 2024 14:13:30 Asia/Kolkata"
+    },
+    {
+        "endpoint": "/api/get_shelf",
+        "method": "GET",
+        "description": "Retrieves the shelf",
+        "response": {
+            "data": {
+                "id": 1,
+                "user_id": 1,
+                "name": "laboriosam",
+                "created_at": "2024-07-16T08:43:30.000000Z",
+                "books": []
+            }
+        },
+        "API_FILE": "ShelfControllerApiDoc",
+        "Last Updated": "16 Jul 2024 14:13:30 Asia/Kolkata"
+    },
+    {
+        "endpoint": "/api/assign_books",
+        "method": "POST",
+        "description": "Assigns Books to Shelf",
+        "response": {
+            "message": "Book assigned successfully"
+        },
+        "API_FILE": "ShelfControllerApiDoc",
+        "Last Updated": "16 Jul 2024 14:13:30 Asia/Kolkata"
+    }
+]
