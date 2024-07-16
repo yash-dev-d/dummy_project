@@ -15,11 +15,11 @@
                 "email": "john@example.com",
                 "name": "John",
                 "phone": "1234567890",
-                "created_at": "2024-07-16T08:43:30.000000Z"
+                "created_at": "2024-07-16T08:55:38.000000Z"
             }
         },
         "API_FILE": "UserControllerApiDoc",
-        "Last Updated": "16 Jul 2024 14:13:30 Asia/Kolkata"
+        "Last Updated": "16 Jul 2024 14:25:38 Asia/Kolkata"
     },
     {
         "endpoint": "/api/get_user/1",
@@ -28,14 +28,14 @@
         "response": {
             "data": {
                 "id": 1,
-                "email": "rjohnson@example.com",
-                "name": "Garth Schowalter",
-                "phone": "+1-203-620-7697",
-                "created_at": "2024-07-16T08:43:30.000000Z"
+                "email": "sherman32@example.com",
+                "name": "Richard Collier",
+                "phone": "(302) 248-7076",
+                "created_at": "2024-07-16T08:55:39.000000Z"
             }
         },
         "API_FILE": "UserControllerApiDoc",
-        "Last Updated": "16 Jul 2024 14:13:30 Asia/Kolkata"
+        "Last Updated": "16 Jul 2024 14:25:39 Asia/Kolkata"
     },
     {
         "endpoint": "/api/get_users",
@@ -45,40 +45,40 @@
             "data": [
                 {
                     "id": 1,
-                    "email": "rogahn.cali@example.com",
-                    "name": "Cooper Gerhold",
-                    "phone": "541-976-6278",
-                    "created_at": "2024-07-16T08:43:31.000000Z",
+                    "email": "emmalee02@example.org",
+                    "name": "Jack Lemke",
+                    "phone": "(938) 332-0291",
+                    "created_at": "2024-07-16T08:55:39.000000Z",
                     "shelves": [
                         {
                             "id": 1,
                             "user_id": 1,
-                            "name": "earum",
-                            "created_at": "2024-07-16T08:43:31.000000Z",
+                            "name": "soluta",
+                            "created_at": "2024-07-16T08:55:39.000000Z",
                             "books": [
                                 {
                                     "id": 1,
-                                    "name": "Roy Grimes"
+                                    "name": "Mr. Rahul McKenzie"
                                 },
                                 {
                                     "id": 2,
-                                    "name": "Prof. Golda Graham Jr."
+                                    "name": "Mr. Daron Schroeder"
                                 }
                             ]
                         },
                         {
                             "id": 2,
                             "user_id": 1,
-                            "name": "recusandae",
-                            "created_at": "2024-07-16T08:43:31.000000Z",
+                            "name": "voluptatem",
+                            "created_at": "2024-07-16T08:55:39.000000Z",
                             "books": [
                                 {
                                     "id": 3,
-                                    "name": "Doug Wiegand"
+                                    "name": "Lacy Russel"
                                 },
                                 {
                                     "id": 4,
-                                    "name": "Bethel Hayes"
+                                    "name": "Ernie Abernathy"
                                 }
                             ]
                         }
@@ -86,40 +86,40 @@
                 },
                 {
                     "id": 2,
-                    "email": "iweimann@example.net",
-                    "name": "Mr. Javonte Lowe",
-                    "phone": "1-907-590-6025",
-                    "created_at": "2024-07-16T08:43:31.000000Z",
+                    "email": "kunze.alysa@example.com",
+                    "name": "Andreanne Kessler",
+                    "phone": "334-243-0567",
+                    "created_at": "2024-07-16T08:55:39.000000Z",
                     "shelves": [
                         {
                             "id": 3,
                             "user_id": 2,
-                            "name": "libero",
-                            "created_at": "2024-07-16T08:43:31.000000Z",
+                            "name": "modi",
+                            "created_at": "2024-07-16T08:55:39.000000Z",
                             "books": [
                                 {
                                     "id": 5,
-                                    "name": "Dell Graham"
+                                    "name": "Willis Armstrong"
                                 },
                                 {
                                     "id": 6,
-                                    "name": "Jensen Jenkins"
+                                    "name": "Prof. Laurine Yost III"
                                 }
                             ]
                         },
                         {
                             "id": 4,
                             "user_id": 2,
-                            "name": "dolorem",
-                            "created_at": "2024-07-16T08:43:31.000000Z",
+                            "name": "ea",
+                            "created_at": "2024-07-16T08:55:39.000000Z",
                             "books": [
                                 {
                                     "id": 7,
-                                    "name": "Mrs. Abbie Jones"
+                                    "name": "Dennis Huel"
                                 },
                                 {
                                     "id": 8,
-                                    "name": "Eliane Wisozk"
+                                    "name": "Nikki Cartwright"
                                 }
                             ]
                         }
@@ -127,40 +127,40 @@
                 },
                 {
                     "id": 3,
-                    "email": "tzboncak@example.org",
-                    "name": "Sam Simonis",
-                    "phone": "269-774-8551",
-                    "created_at": "2024-07-16T08:43:31.000000Z",
+                    "email": "pwiza@example.net",
+                    "name": "Camden Abernathy",
+                    "phone": "818.575.3133",
+                    "created_at": "2024-07-16T08:55:39.000000Z",
                     "shelves": [
                         {
                             "id": 5,
                             "user_id": 3,
-                            "name": "modi",
-                            "created_at": "2024-07-16T08:43:31.000000Z",
+                            "name": "explicabo",
+                            "created_at": "2024-07-16T08:55:39.000000Z",
                             "books": [
                                 {
                                     "id": 9,
-                                    "name": "Dr. Gardner Konopelski"
+                                    "name": "Eldridge Stokes"
                                 },
                                 {
                                     "id": 10,
-                                    "name": "Dr. Vita Paucek"
+                                    "name": "Abdullah Schamberger"
                                 }
                             ]
                         },
                         {
                             "id": 6,
                             "user_id": 3,
-                            "name": "maiores",
-                            "created_at": "2024-07-16T08:43:31.000000Z",
+                            "name": "itaque",
+                            "created_at": "2024-07-16T08:55:39.000000Z",
                             "books": [
                                 {
                                     "id": 11,
-                                    "name": "Mrs. Trycia Nikolaus III"
+                                    "name": "Evert Haley I"
                                 },
                                 {
                                     "id": 12,
-                                    "name": "Ms. Beatrice Adams MD"
+                                    "name": "Prof. Nickolas Gislason II"
                                 }
                             ]
                         }
@@ -206,6 +206,6 @@
             }
         },
         "API_FILE": "UserControllerApiDoc",
-        "Last Updated": "16 Jul 2024 14:13:31 Asia/Kolkata"
+        "Last Updated": "16 Jul 2024 14:25:39 Asia/Kolkata"
     }
 ]

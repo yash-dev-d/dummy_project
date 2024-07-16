@@ -7,6 +7,7 @@ use Tests\TestCase;
 use Tests\Feature\Shelf\CreateShelf;
 use Tests\Feature\Shelf\GetShelf;
 use Tests\Feature\Shelf\AssignShelf;
+use Tests\Feature\Shelf\GetShelves;
 use App\Classes\ApiDocs;
 
 class ShelfControllerTest extends TestCase
@@ -27,6 +28,7 @@ class ShelfControllerTest extends TestCase
     use CreateShelf;
     use GetShelf;
     use AssignShelf;
+    use GetShelves;
 
 }
 
