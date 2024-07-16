@@ -9,11 +9,11 @@
                 "id": 1,
                 "user_id": 1,
                 "name": "New Shelf",
-                "created_at": "2024-07-16T08:55:38.000000Z"
+                "created_at": "2024-07-16T09:08:52.000000Z"
             }
         },
         "API_FILE": "ShelfControllerApiDoc",
-        "Last Updated": "16 Jul 2024 14:25:38 Asia/Kolkata"
+        "Last Updated": "16 Jul 2024 14:38:52 Asia/Kolkata"
     },
     {
         "endpoint": "/api/get_shelf",
@@ -23,13 +23,13 @@
             "data": {
                 "id": 1,
                 "user_id": 1,
-                "name": "explicabo",
-                "created_at": "2024-07-16T08:55:38.000000Z",
+                "name": "magni",
+                "created_at": "2024-07-16T09:08:52.000000Z",
                 "books": []
             }
         },
         "API_FILE": "ShelfControllerApiDoc",
-        "Last Updated": "16 Jul 2024 14:25:38 Asia/Kolkata"
+        "Last Updated": "16 Jul 2024 14:38:52 Asia/Kolkata"
     },
     {
         "endpoint": "/api/assign_books",
@@ -39,7 +39,7 @@
             "message": "Book assigned successfully"
         },
         "API_FILE": "ShelfControllerApiDoc",
-        "Last Updated": "16 Jul 2024 14:25:38 Asia/Kolkata"
+        "Last Updated": "16 Jul 2024 14:38:52 Asia/Kolkata"
     },
     {
         "endpoint": "/api/get_shelves",
@@ -50,70 +50,70 @@
                 {
                     "id": 1,
                     "user_id": 1,
-                    "name": "nesciunt",
-                    "created_at": "2024-07-16T08:55:38.000000Z",
+                    "name": "nostrum",
+                    "created_at": "2024-07-16T09:08:52.000000Z",
                     "user": {
                         "id": 1,
-                        "email": "keira20@example.com",
-                        "name": "Ms. Estelle Hoppe V",
-                        "phone": "504-202-7361",
-                        "created_at": "2024-07-16T08:55:38.000000Z"
+                        "email": "vhirthe@example.org",
+                        "name": "Frank Deckow",
+                        "phone": "+1.971.905.1382",
+                        "created_at": "2024-07-16T09:08:52.000000Z"
                     },
                     "books": []
                 },
                 {
                     "id": 2,
                     "user_id": 2,
-                    "name": "quos",
-                    "created_at": "2024-07-16T08:55:38.000000Z",
+                    "name": "laboriosam",
+                    "created_at": "2024-07-16T09:08:52.000000Z",
                     "user": {
                         "id": 2,
-                        "email": "tracey81@example.com",
-                        "name": "Prof. Nickolas Bailey Jr.",
-                        "phone": "(971) 395-1169",
-                        "created_at": "2024-07-16T08:55:38.000000Z"
+                        "email": "drau@example.org",
+                        "name": "D'angelo Murphy",
+                        "phone": "(713) 790-5261",
+                        "created_at": "2024-07-16T09:08:52.000000Z"
                     },
                     "books": []
                 },
                 {
                     "id": 3,
                     "user_id": 3,
-                    "name": "eos",
-                    "created_at": "2024-07-16T08:55:38.000000Z",
+                    "name": "consequatur",
+                    "created_at": "2024-07-16T09:08:52.000000Z",
                     "user": {
                         "id": 3,
-                        "email": "kerluke.damon@example.net",
-                        "name": "Walter Dicki",
-                        "phone": "+1.262.231.8127",
-                        "created_at": "2024-07-16T08:55:38.000000Z"
+                        "email": "luis.dubuque@example.com",
+                        "name": "Cary Renner",
+                        "phone": "+1-573-426-7457",
+                        "created_at": "2024-07-16T09:08:52.000000Z"
                     },
                     "books": []
                 },
                 {
                     "id": 4,
                     "user_id": 4,
-                    "name": "sed",
-                    "created_at": "2024-07-16T08:55:38.000000Z",
+                    "name": "dolorem",
+                    "created_at": "2024-07-16T09:08:52.000000Z",
                     "user": {
                         "id": 4,
-                        "email": "sanford.skyla@example.org",
-                        "name": "Mr. Weston Orn V",
-                        "phone": "650.730.7597",
-                        "created_at": "2024-07-16T08:55:38.000000Z"
+                        "email": "vance.leuschke@example.com",
+                        "name": "Prof. Retta Balistreri",
+                        "phone": "434.891.6209",
+                        "created_at": "2024-07-16T09:08:52.000000Z"
                     },
                     "books": []
                 },
                 {
                     "id": 5,
                     "user_id": 5,
-                    "name": "rerum",
-                    "created_at": "2024-07-16T08:55:38.000000Z",
+                    "name": "sit",
+                    "created_at": "2024-07-16T09:08:52.000000Z",
                     "user": {
                         "id": 5,
-                        "email": "valentina.prohaska@example.net",
-                        "name": "Citlalli Bins",
-                        "phone": "330.290.9027",
-                        "created_at": "2024-07-16T08:55:38.000000Z"
+                        "email": "rprice@example.org",
+                        "name": "Dominic Strosin III",
+                        "phone": "689-232-7756",
+                        "created_at": "2024-07-16T09:08:52.000000Z"
                     },
                     "books": []
                 }
@@ -152,6 +152,6 @@
             }
         },
         "API_FILE": "ShelfControllerApiDoc",
-        "Last Updated": "16 Jul 2024 14:25:38 Asia/Kolkata"
+        "Last Updated": "16 Jul 2024 14:38:52 Asia/Kolkata"
     }
 ]
