@@ -23,7 +23,7 @@ class UserControllerTest extends TestCase
         $this->createApplication();
         $this->api_docs = new ApiDocs(get_class($this));
     }
-
+    
 
     use CreateUser;
     use GetUser;

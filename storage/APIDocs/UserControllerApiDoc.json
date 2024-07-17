@@ -15,11 +15,11 @@
                 "email": "john@example.com",
                 "name": "John",
                 "phone": "1234567890",
-                "created_at": "2024-07-16T09:08:52.000000Z"
+                "created_at": "2024-07-17T11:03:41.000000Z"
             }
         },
         "API_FILE": "UserControllerApiDoc",
-        "Last Updated": "16 Jul 2024 14:38:52 Asia/Kolkata"
+        "Last Updated": "17 Jul 2024 16:33:41 Asia/Kolkata"
     },
     {
         "endpoint": "/api/get_user/1",
@@ -28,14 +28,14 @@
         "response": {
             "data": {
                 "id": 1,
-                "email": "coty12@example.com",
-                "name": "Emery O'Hara",
-                "phone": "(480) 449-6503",
-                "created_at": "2024-07-16T09:08:53.000000Z"
+                "email": "wstoltenberg@example.org",
+                "name": "London Dickens",
+                "phone": "539-747-7086",
+                "created_at": "2024-07-17T11:03:42.000000Z"
             }
         },
         "API_FILE": "UserControllerApiDoc",
-        "Last Updated": "16 Jul 2024 14:38:53 Asia/Kolkata"
+        "Last Updated": "17 Jul 2024 16:33:42 Asia/Kolkata"
     },
     {
         "endpoint": "/api/get_users",
@@ -45,40 +45,40 @@
             "data": [
                 {
                     "id": 1,
-                    "email": "nitzsche.delia@example.org",
-                    "name": "Dr. Doug Oberbrunner DDS",
-                    "phone": "760.340.0102",
-                    "created_at": "2024-07-16T09:08:53.000000Z",
+                    "email": "willie83@example.com",
+                    "name": "Miss Madie Treutel",
+                    "phone": "+1 (608) 426-1415",
+                    "created_at": "2024-07-17T11:03:42.000000Z",
                     "shelves": [
                         {
                             "id": 1,
                             "user_id": 1,
-                            "name": "id",
-                            "created_at": "2024-07-16T09:08:53.000000Z",
+                            "name": "quo",
+                            "created_at": "2024-07-17T11:03:42.000000Z",
                             "books": [
                                 {
                                     "id": 1,
-                                    "name": "Queenie Stoltenberg"
+                                    "name": "Mack Labadie"
                                 },
                                 {
                                     "id": 2,
-                                    "name": "Kaela Greenholt DDS"
+                                    "name": "Prof. Jeffery Ledner DVM"
                                 }
                             ]
                         },
                         {
                             "id": 2,
                             "user_id": 1,
-                            "name": "eveniet",
-                            "created_at": "2024-07-16T09:08:53.000000Z",
+                            "name": "natus",
+                            "created_at": "2024-07-17T11:03:42.000000Z",
                             "books": [
                                 {
                                     "id": 3,
-                                    "name": "Nelle Cole"
+                                    "name": "Dr. Sigurd Hills"
                                 },
                                 {
                                     "id": 4,
-                                    "name": "Dr. Rudolph Weber"
+                                    "name": "Mackenzie Green"
                                 }
                             ]
                         }
@@ -86,40 +86,40 @@
                 },
                 {
                     "id": 2,
-                    "email": "kemmer.liliana@example.com",
-                    "name": "Lourdes Sanford",
-                    "phone": "(540) 730-7565",
-                    "created_at": "2024-07-16T09:08:53.000000Z",
+                    "email": "tremaine95@example.com",
+                    "name": "Mrs. Thora Roob IV",
+                    "phone": "351.531.5146",
+                    "created_at": "2024-07-17T11:03:42.000000Z",
                     "shelves": [
                         {
                             "id": 3,
                             "user_id": 2,
-                            "name": "eaque",
-                            "created_at": "2024-07-16T09:08:53.000000Z",
+                            "name": "voluptatem",
+                            "created_at": "2024-07-17T11:03:42.000000Z",
                             "books": [
                                 {
                                     "id": 5,
-                                    "name": "Domenico Reichel"
+                                    "name": "Joesph Bode MD"
                                 },
                                 {
                                     "id": 6,
-                                    "name": "Prof. Charles Grady"
+                                    "name": "Kendra Rowe DVM"
                                 }
                             ]
                         },
                         {
                             "id": 4,
                             "user_id": 2,
-                            "name": "esse",
-                            "created_at": "2024-07-16T09:08:53.000000Z",
+                            "name": "animi",
+                            "created_at": "2024-07-17T11:03:42.000000Z",
                             "books": [
                                 {
                                     "id": 7,
-                                    "name": "Estella Streich"
+                                    "name": "Carlo Kilback"
                                 },
                                 {
                                     "id": 8,
-                                    "name": "Lindsay Stehr"
+                                    "name": "Ransom Sanford"
                                 }
                             ]
                         }
@@ -127,40 +127,40 @@
                 },
                 {
                     "id": 3,
-                    "email": "jevon63@example.net",
-                    "name": "Triston Gaylord",
-                    "phone": "678-830-2888",
-                    "created_at": "2024-07-16T09:08:53.000000Z",
+                    "email": "myah04@example.com",
+                    "name": "Adolphus Ledner",
+                    "phone": "281-517-8030",
+                    "created_at": "2024-07-17T11:03:42.000000Z",
                     "shelves": [
                         {
                             "id": 5,
                             "user_id": 3,
-                            "name": "et",
-                            "created_at": "2024-07-16T09:08:53.000000Z",
+                            "name": "possimus",
+                            "created_at": "2024-07-17T11:03:42.000000Z",
                             "books": [
                                 {
                                     "id": 9,
-                                    "name": "Alfreda Fay"
+                                    "name": "Rey Kautzer"
                                 },
                                 {
                                     "id": 10,
-                                    "name": "Daniela Stracke"
+                                    "name": "Janessa Boyer I"
                                 }
                             ]
                         },
                         {
                             "id": 6,
                             "user_id": 3,
-                            "name": "quibusdam",
-                            "created_at": "2024-07-16T09:08:53.000000Z",
+                            "name": "illum",
+                            "created_at": "2024-07-17T11:03:42.000000Z",
                             "books": [
                                 {
                                     "id": 11,
-                                    "name": "Prof. Joany Langworth PhD"
+                                    "name": "Mrs. April Schamberger"
                                 },
                                 {
                                     "id": 12,
-                                    "name": "Mrs. Zella Bauch"
+                                    "name": "Wendy Abernathy"
                                 }
                             ]
                         }
@@ -206,6 +206,6 @@
             }
         },
         "API_FILE": "UserControllerApiDoc",
-        "Last Updated": "16 Jul 2024 14:38:53 Asia/Kolkata"
+        "Last Updated": "17 Jul 2024 16:33:42 Asia/Kolkata"
     }
 ]

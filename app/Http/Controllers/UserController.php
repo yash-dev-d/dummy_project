@@ -83,7 +83,7 @@ class UserController extends Controller
             $shelf = Shelf::create($request->validated());
             return response()->json([
                 'message' => 'Shelf successfully created',
-                'user' => new ShelfResource($shelf)
+                'shelf' => new ShelfResource($shelf)
             ], 201); // success 201 code
             
         } catch (\Exception $e) {
