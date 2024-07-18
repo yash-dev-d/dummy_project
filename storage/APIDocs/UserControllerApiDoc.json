@@ -15,11 +15,11 @@
                 "email": "john@example.com",
                 "name": "John",
                 "phone": "1234567890",
-                "created_at": "2024-07-17T11:03:41.000000Z"
+                "created_at": "2024-07-18T09:12:11.000000Z"
             }
         },
         "API_FILE": "UserControllerApiDoc",
-        "Last Updated": "17 Jul 2024 16:33:41 Asia/Kolkata"
+        "Last Updated": "18 Jul 2024 14:42:11 Asia/Kolkata"
     },
     {
         "endpoint": "/api/get_user/1",
@@ -28,14 +28,14 @@
         "response": {
             "data": {
                 "id": 1,
-                "email": "wstoltenberg@example.org",
-                "name": "London Dickens",
-                "phone": "539-747-7086",
-                "created_at": "2024-07-17T11:03:42.000000Z"
+                "email": "cwyman@example.net",
+                "name": "Lucile Metz V",
+                "phone": "+1.845.645.3428",
+                "created_at": "2024-07-18T09:12:11.000000Z"
             }
         },
         "API_FILE": "UserControllerApiDoc",
-        "Last Updated": "17 Jul 2024 16:33:42 Asia/Kolkata"
+        "Last Updated": "18 Jul 2024 14:42:11 Asia/Kolkata"
     },
     {
         "endpoint": "/api/get_users",
@@ -45,40 +45,40 @@
             "data": [
                 {
                     "id": 1,
-                    "email": "willie83@example.com",
-                    "name": "Miss Madie Treutel",
-                    "phone": "+1 (608) 426-1415",
-                    "created_at": "2024-07-17T11:03:42.000000Z",
+                    "email": "xcummerata@example.net",
+                    "name": "Dr. Dianna Mann I",
+                    "phone": "305.395.5685",
+                    "created_at": "2024-07-18T09:12:11.000000Z",
                     "shelves": [
                         {
                             "id": 1,
                             "user_id": 1,
-                            "name": "quo",
-                            "created_at": "2024-07-17T11:03:42.000000Z",
+                            "name": "nihil",
+                            "created_at": "2024-07-18T09:12:11.000000Z",
                             "books": [
                                 {
                                     "id": 1,
-                                    "name": "Mack Labadie"
+                                    "name": "Sarai DuBuque"
                                 },
                                 {
                                     "id": 2,
-                                    "name": "Prof. Jeffery Ledner DVM"
+                                    "name": "Josefa Cole"
                                 }
                             ]
                         },
                         {
                             "id": 2,
                             "user_id": 1,
-                            "name": "natus",
-                            "created_at": "2024-07-17T11:03:42.000000Z",
+                            "name": "optio",
+                            "created_at": "2024-07-18T09:12:11.000000Z",
                             "books": [
                                 {
                                     "id": 3,
-                                    "name": "Dr. Sigurd Hills"
+                                    "name": "Melisa Bartoletti"
                                 },
                                 {
                                     "id": 4,
-                                    "name": "Mackenzie Green"
+                                    "name": "Elvis Kuhic II"
                                 }
                             ]
                         }
@@ -86,40 +86,40 @@
                 },
                 {
                     "id": 2,
-                    "email": "tremaine95@example.com",
-                    "name": "Mrs. Thora Roob IV",
-                    "phone": "351.531.5146",
-                    "created_at": "2024-07-17T11:03:42.000000Z",
+                    "email": "king.aufderhar@example.com",
+                    "name": "Giovanny Bashirian",
+                    "phone": "(681) 929-6190",
+                    "created_at": "2024-07-18T09:12:11.000000Z",
                     "shelves": [
                         {
                             "id": 3,
                             "user_id": 2,
-                            "name": "voluptatem",
-                            "created_at": "2024-07-17T11:03:42.000000Z",
+                            "name": "et",
+                            "created_at": "2024-07-18T09:12:11.000000Z",
                             "books": [
                                 {
                                     "id": 5,
-                                    "name": "Joesph Bode MD"
+                                    "name": "Prof. Israel Kuphal"
                                 },
                                 {
                                     "id": 6,
-                                    "name": "Kendra Rowe DVM"
+                                    "name": "Susana Wiegand"
                                 }
                             ]
                         },
                         {
                             "id": 4,
                             "user_id": 2,
-                            "name": "animi",
-                            "created_at": "2024-07-17T11:03:42.000000Z",
+                            "name": "est",
+                            "created_at": "2024-07-18T09:12:11.000000Z",
                             "books": [
                                 {
                                     "id": 7,
-                                    "name": "Carlo Kilback"
+                                    "name": "Reed Jones"
                                 },
                                 {
                                     "id": 8,
-                                    "name": "Ransom Sanford"
+                                    "name": "Brain Leffler"
                                 }
                             ]
                         }
@@ -127,40 +127,40 @@
                 },
                 {
                     "id": 3,
-                    "email": "myah04@example.com",
-                    "name": "Adolphus Ledner",
-                    "phone": "281-517-8030",
-                    "created_at": "2024-07-17T11:03:42.000000Z",
+                    "email": "jhartmann@example.org",
+                    "name": "Prof. David Moore",
+                    "phone": "+12084916384",
+                    "created_at": "2024-07-18T09:12:11.000000Z",
                     "shelves": [
                         {
                             "id": 5,
                             "user_id": 3,
-                            "name": "possimus",
-                            "created_at": "2024-07-17T11:03:42.000000Z",
+                            "name": "nobis",
+                            "created_at": "2024-07-18T09:12:11.000000Z",
                             "books": [
                                 {
                                     "id": 9,
-                                    "name": "Rey Kautzer"
+                                    "name": "Prof. Elyse Cummerata III"
                                 },
                                 {
                                     "id": 10,
-                                    "name": "Janessa Boyer I"
+                                    "name": "Miss Mireya Schneider"
                                 }
                             ]
                         },
                         {
                             "id": 6,
                             "user_id": 3,
-                            "name": "illum",
-                            "created_at": "2024-07-17T11:03:42.000000Z",
+                            "name": "hic",
+                            "created_at": "2024-07-18T09:12:11.000000Z",
                             "books": [
                                 {
                                     "id": 11,
-                                    "name": "Mrs. April Schamberger"
+                                    "name": "Ms. Annamarie Hermiston PhD"
                                 },
                                 {
                                     "id": 12,
-                                    "name": "Wendy Abernathy"
+                                    "name": "Ruthe Leannon"
                                 }
                             ]
                         }
@@ -206,6 +206,6 @@
             }
         },
         "API_FILE": "UserControllerApiDoc",
-        "Last Updated": "17 Jul 2024 16:33:42 Asia/Kolkata"
+        "Last Updated": "18 Jul 2024 14:42:11 Asia/Kolkata"
     }
 ]

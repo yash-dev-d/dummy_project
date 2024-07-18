@@ -70,11 +70,13 @@ trait CreateUser
     }
 
     public function missingFieldsProvider()
-    {
+    {   $first = [];
+        $second = ['name' => 'John'];
+        $third = ['email' => 'john@example.com'];
         return [
-            [[], ['name', 'email']], 
-            [['name' => 'John'], ['email']], 
-            [['email' => 'john@example.com'], ['name']], 
+            [$first, ['name', 'email']], 
+            [$second, ['email']], 
+            [$third, ['name']], 
         ];
     }
 
