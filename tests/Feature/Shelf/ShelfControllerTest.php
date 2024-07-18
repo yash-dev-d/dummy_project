@@ -23,10 +23,7 @@ class ShelfControllerTest extends TestCase
         $this->createApplication();
         $this->api_docs = new ApiDocs(get_class($this));
     }
-    protected function tearDown(): void{
-        
-        parent::tearDown();
-      }
+
 
 
     use CreateShelf;
